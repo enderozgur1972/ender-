@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div nav ul li {
+    color: green;
+    display: inline;
+    float: right;
+    margin-right: 30px;
+  font-size: 30px;
+}
